@@ -1,0 +1,4 @@
+Model,Success,Collision,Timeout,Success_STD,Mean_Episode_Length,Best_Seed,Worst_Seed
+Baseline,77.00,10.50,12.50,7.14,1111.7,85.00,60.00
+ADR_Wheel_Camera,80.00,7.00,13.00,8.37,1117.5,95.00,65.00
+ADR_Wheel_Camera_Floor,82.00,1.50,16.50,8.72,1076.5,95.00,70.00

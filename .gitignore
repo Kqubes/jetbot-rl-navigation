@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large archived files
+archive/
+
+# Ignore training logs/checkpoints
+logs/*
+
+# Keep only the three selected final models
+!logs/best_trained_models/
+!logs/best_trained_models/*.pt
+
+# System/editor files
+.DS_Store
+.vscode/
+
+# Temporary files
+*.tmp
+*.log

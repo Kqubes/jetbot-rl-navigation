@@ -1,0 +1,4 @@
+Model,Nominal_Success,Average_Robust_Success,Success_Degradation
+Baseline,77.0,62.25,14.75
+ADR_Wheel_Camera,80.0,61.75,18.25
+ADR_Wheel_Camera_Floor,82.0,45.57,36.43

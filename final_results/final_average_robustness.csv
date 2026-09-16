@@ -1,0 +1,4 @@
+Model,Average_Success,Average_Collision,Average_Timeout
+Baseline,62.25,8.75,29.00
+ADR_Wheel_Camera,61.75,4.25,34.00
+ADR_Wheel_Camera_Floor,45.57,0.91,53.52

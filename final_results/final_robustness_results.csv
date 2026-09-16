@@ -1,0 +1,13 @@
+Test,Model,Success,Collision,Timeout,Success_STD,Worst_Seed
+Camera_Noise,Baseline,74.00,11.00,15.00,13.56,40.00
+Camera_Noise,ADR_Wheel_Camera,79.00,6.00,15.00,12.21,60.00
+Camera_Noise,ADR_Wheel_Camera_Floor,86.00,1.00,13.00,8.00,70.00
+Wheel_Friction,Baseline,49.00,7.00,44.00,15.78,20.00
+Wheel_Friction,ADR_Wheel_Camera,42.00,1.00,57.00,9.80,30.00
+Wheel_Friction,ADR_Wheel_Camera_Floor,5.41,0.00,94.59,7.31,0.00
+Floor_Friction,Baseline,76.00,15.00,9.00,9.17,60.00
+Floor_Friction,ADR_Wheel_Camera,80.00,8.00,12.00,10.00,70.00
+Floor_Friction,ADR_Wheel_Camera_Floor,86.14,1.98,11.88,11.66,70.00
+Combined,Baseline,50.00,2.00,48.00,14.83,30.00
+Combined,ADR_Wheel_Camera,46.00,2.00,52.00,8.00,30.00
+Combined,ADR_Wheel_Camera_Floor,4.73,0.68,94.59,5.95,0.00
